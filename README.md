@@ -1,7 +1,7 @@
 # Siesta Smart PMS (AIaaS)
 Introduction
 
-Welcome to Siesta_Smart_Project! This project is designed to be an in-house software for a 2-Way Property Management System (2-Way PMS) optimized with Artificial Intelligence (AI) technologies. Our goal is to enhance the efficiency and effectiveness of property management through advanced technology solutions.  
+Welcome to Siesta_Smart PMS Project! This project is designed to be an in-house software for a 2-Way Property Management System (2-Way PMS) optimized with Artificial Intelligence (AI) technologies. Our goal is to enhance the efficiency and effectiveness of property management through advanced technology solutions.  
  
 Features
 
