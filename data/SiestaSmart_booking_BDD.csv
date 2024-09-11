@@ -1,0 +1,16 @@
+num_reservation,hotel,lead_time,meal,country,market_segment,distribution_channel,is_repeated_guest,reserved_room_type,booking_changes,deposit_type,days_in_waiting_list,customer_type,adr,required_car_parking_spaces,total_of_special_requests,total_stays_nights,total_people,is_reserved_room,net_previous_cancelled,is_canceled,is_canceled %
+7FFC052B-1D9F,City Hotel,123,SC,DZA,Undefined,Undefined,0,A,2,No Deposit,2,Transient,0.0,0,0,2,2.0,1,0,0,62.95392513
+7945A686-38C9,Resort Hotel,12,BB,ISL,Groups,GDS,0,A,0,Non Refund,0,Transient,0.0,2,0,3,5.0,1,0,0,99.98270273
+CE0BF320-B950,City Hotel,174,Undefined,CIV,Undefined,Undefined,0,H,0,No Deposit,9,Transient,0.0,0,0,7,1.0,0,1,0,82.35906363
+DDC05BE5-374C,City Hotel,0,Undefined,AIA,Undefined,Undefined,0,A,0,No Deposit,0,Transient,0.0,0,0,10,2.0,1,0,0,86.93954701
+4B84B4DD-E75F,Resort Hotel,4,BB,IRL,Direct,Direct,0,C,2,Non Refund,1,Transient,0.0,0,0,8,2.0,0,1,0,96.18239856
+4A3BEBF0-76F6,City Hotel,78,SC,GNB,Offline TA/TO,TA/TO,0,A,0,No Deposit,0,Transient,0.0,0,0,2,1.0,0,1,0,93.04144045
+52B8C68B-CF4E,City Hotel,156,Undefined,Country?,Undefined,Undefined,0,D,12,No Deposit,18,Transient,0.0,0,0,1,2.0,0,1,0,80.63490323
+5F146C1B-F5DE,City Hotel,210,Undefined,Country?,Undefined,Undefined,0,F,4,No Deposit,6,Transient,0.0,0,0,3,2.0,0,1,0,84.97702479
+621CB91F-2718,City Hotel,232,Undefined,NOR,Undefined,Undefined,0,D,0,No Deposit,0,Transient,129.0,0,0,2,3.0,0,1,0,76.23038211
+C7DBB243-91DA,City Hotel,31,BB,PRT,Aviation,Corporate,0,D,17,Non Refund,2,Transient,213.0,1,0,6,2.0,0,0,0,89.27139067
+637B582B-7886,City Hotel,355,SC,CHN,Online TA,TA/TO,0,A,23,Non Refund,1,Transient,318.0,0,0,2,2.0,1,0,0,53.52564454
+B4E7CA92-100A,City Hotel,416,SC,GAB,Online TA,TA/TO,0,A,0,No Refund,6,Transient,178.0,0,0,1,2.0,1,1,1,70.68594694
+D02D762D-E43D,City Hotel,355,SC,CHN,Online TA,TA/TO,0,A,12,No Refund,372,Transient,0.0,0,0,2,3.0,0,1,1,92.2090791137486
+9D5318F0-DA15,City Hotel,199,SC,COG,Online TA,TA/TO,0,A,0,No Refund,7,Transient,0.0,0,0,5,2.0,0,1,0,91.82631785073406
+92DC1740-551E,City Hotel,232,SC,RWA,Online TA,TA/TO,0,A,16,No Refund,336,Transient,0.0,0,0,2,2.0,0,1,1,57.173509668428366
